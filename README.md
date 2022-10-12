@@ -16,13 +16,18 @@
         * 基礎
             * simple search
             * binary search
-    
+<BR><BR>
 2. Data Structures
     * array
     * linked list
     * array + linked list
     * stack
     * queue 
+<BR><BR>
+3. C++練習
+    主要為一些複習C++語法和一些小嘗試
+    * pointer
+
 
 # 參考書目
 1. Introduction to Algorithms, 3/e (IE-Paperback)
